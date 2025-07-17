@@ -73,7 +73,7 @@ Learn how to manually assign Gene Ontology terms or develop innovative approache
 
 https://github.com/anphan0828/ISMB_CollaborationFest_EBI
 
-#### 4.  BioPython-GPU: Accelerate BioPython Using RAPIDS and RAPIDS single cell
+#### 4.  BioPython-GPU: Accelerate BioPython Using RAPIDS 
 
 Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration.
 
